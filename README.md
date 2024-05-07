@@ -1,6 +1,6 @@
 # Prueba técnica
 
-Imprime un bonito árbol de Navidad con su propia estrella en la punta 
+Imprime un bonito árbol de Navidad con su propia estrella en la punta.
 
 La prueba tecnica fue realizada con Javascript generando un código ligero y simple de entender.
 
@@ -26,7 +26,7 @@ El resultado será el siguiente:
 
 ## MÁS
 
-El pueden generar diferentes arboles de distinto tamaño, el primer parametro es el tamaño del arbol y el segundo es el tipo de arbol
+El pueden generar diferentes arboles de distinto tamaño, el primer parametro es el tamaño del arbol y el segundo es el tipo de arbol.
 
 ```bash
 printTree(1);
