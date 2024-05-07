@@ -31,7 +31,6 @@ El pueden generar diferentes arboles de distinto tamaño, el primer parametro es
 ```bash
 printTree(1);
 
-
      *
      0
     000
