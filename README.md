@@ -29,7 +29,7 @@ El resultado será el siguiente:
 El pueden generar diferentes arboles de distinto tamaño, el primer parametro es el tamaño del arbol y el segundo es el tipo de arbol.
 
 ```bash
-printTree(1);
+printTree(5);
 
      *
      0
