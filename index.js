@@ -10,7 +10,6 @@ const printTree = (size = 10, branch = "0") => {
     console.log(tree.join(''));
 }
 
-//printTree(5)
-
-//printTree(10, "X")
-printTree(15, "^")
+printTree();
+printTree(5);
+printTree(15, "^");
